@@ -55,7 +55,7 @@ pip install tensorflow opencv-python flask numpy pandas pillow scikit-learn
 
 The training and test dataset used for this project is available on Google Drive:
 
-**Dataset link:** _[paste your Google Drive link here]_
+**Dataset link:** https://drive.google.com/drive/folders/1FK8sconpA1fUwXs1WHI7U8K5mWFFCPuF?usp=sharing
 
 Download the dataset and place the `train/` folder (and `Test.csv`, if applicable) in the project's root directory before running the training script.
 
